@@ -1,14 +1,10 @@
 Mario
 =====
-
 Mario is a simple program that recreates the half-pyramid using hashes (#) for blocks.
 
-#include <cs50.h>
-#include <stdio.h>
-
-int main(void)
 
 {
+
   		//Prompt user for integer
             printf("Pick a number between 1 and 23:");
     		int height = GetInt();
